@@ -1,9 +1,7 @@
 package main
 
 import (
-	"fmt"
+	_ "Wildfire/servers"
 )
 
-func main() {
-	fmt.Println("Hallo grpc.")
-}
+func main() {}
